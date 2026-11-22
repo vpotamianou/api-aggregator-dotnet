@@ -1,0 +1,21 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+*.log
+
+## Rider
+.idea/
+
+## Test results
+TestResults/
+coverage.*
+*.trx
+
+## Local secrets
+appsettings.Development.json
+appsettings.Local.json
+*.secrets.json
